@@ -10,4 +10,4 @@
 > * bootstrap
 > * jquery
 
-[了解具体请查看我的博客](http://www.csdn.net/)
+[了解具体请查看我的博客](http://blog.csdn.net/Healist/article/details/53217521)
